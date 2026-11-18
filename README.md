@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223230197
+# Name: SARON XAVIER A
+
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1176" height="881" alt="exp 1 1" src="https://github.com/user-attachments/assets/a111f3f7-48d4-4f47-b31f-6a80e6617031" />
 
 
 
@@ -69,12 +70,17 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1212" height="841" alt="exp 1 6" src="https://github.com/user-attachments/assets/8d31b533-310b-4d11-b674-ff57aa4c6dde" />
+
 
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+
+<img width="863" height="736" alt="exp 1 5" src="https://github.com/user-attachments/assets/c732a22e-3d13-4181-97c1-bc21af444759" />
 
 
 
@@ -88,6 +94,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1027" height="726" alt="exp 1 2" src="https://github.com/user-attachments/assets/26fda3af-8606-4e32-9b9f-e845de7c8a61" />
 
 
 
@@ -106,6 +113,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+
+<img width="827" height="728" alt="exp 1 4" src="https://github.com/user-attachments/assets/e12d122d-16b2-47c8-b192-c259fb07c00c" />
 
 
 
@@ -127,6 +136,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+
+<img width="1007" height="868" alt="exp 1 1" src="https://github.com/user-attachments/assets/4fd18b66-2958-4212-9f04-ec9e0bd8d3cc" />
 
 
 
